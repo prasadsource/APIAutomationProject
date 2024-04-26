@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "RES"
+        },
+        "summary": "Credit Card Defect4",
+        "description":"Creating Issue4",
+        "issuetype": {
+             "id": "10004"
+        }
+    }
+}

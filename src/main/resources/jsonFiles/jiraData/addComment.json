@@ -1,0 +1,7 @@
+{
+    "body": "I have added second comment",
+    "visibility": {
+        "type": "role",
+        "value": "Administrators"
+    }
+}
